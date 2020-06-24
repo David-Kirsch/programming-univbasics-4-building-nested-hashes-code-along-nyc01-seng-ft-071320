@@ -13,7 +13,9 @@ def second_challenge
       :matriach => {},
       :hero => {},
       :hero_friends = []
-      }}
+      }
+    
+  }
 
   
 end
